@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0613e99-a46d-4eee-a514-6c4a974001b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/java/com/gateway/gateway/Server/GatewayServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/src/test/java/com/gateway/gateway/Server/GatewayServerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query" beforeDir="false" afterPath="$PROJECT_DIR$/query" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/query/query/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/query/query/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/query/query/mvnw" beforeDir="false" />
@@ -31,7 +45,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/query" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -44,14 +58,38 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConfigServerApplication.executor": "Run",
+    "Application.CoursesApplication.executor": "Run",
+    "Application.EmployeeApplication.executor": "Run",
     "Application.EurekaServerApplication.executor": "Run",
+    "Application.GatewayServerApplication.executor": "Run",
     "Application.QueryApplication.executor": "Run",
+    "JUnit.EmployeeApplicationTests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/saket.verma/OneDrive - UKG/Desktop/LMS Query and Config/config-server"
+    "last_opened_file_path": "C:/Users/saket.verma/OneDrive - UKG/Desktop/LMS Query and Config"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="GatewayServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gateway.gateway.Server.GatewayServerApplication" />
+      <module name="gateway-Server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gateway.gateway.Server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatewayServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
