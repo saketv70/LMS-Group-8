@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0613e99-a46d-4eee-a514-6c4a974001b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/query/query/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/Entity/Query.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/QueryApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/controller/QueryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/dto/ErrorResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/dto/QueryDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/dto/ResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/exceptions/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/mapper/QueryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/repository/QueryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/service/IQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/service/impl/QueryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/resources/Application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/query/query/src/test/java/com/lms/query/QueryApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/query" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2kYEvDo3SLx4JUiDFchopwPhtHr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConfigServerApplication.executor": "Run",
+    "Application.EurekaServerApplication.executor": "Run",
+    "Application.QueryApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/saket.verma/OneDrive - UKG/Desktop/LMS Query and Config/config-server"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0613e99-a46d-4eee-a514-6c4a974001b2" name="Changes" comment="" />
+      <created>1723452337835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723452337835</updated>
+    </task>
+    <servers />
+  </component>
+</project>
