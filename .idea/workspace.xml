@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0613e99-a46d-4eee-a514-6c4a974001b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/java/com/gateway/gateway/Server/configuration/KeyCloakRoleConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/java/com/gateway/gateway/Server/configuration/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Employee/src/main/java/com/lms/Employee/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Employee/src/main/java/com/lms/Employee/entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-Server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-Server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-Server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/query" beforeDir="false" afterPath="$PROJECT_DIR$/query" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/query/query/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/query/query/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
@@ -55,21 +49,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConfigServerApplication.executor": "Run",
-    "Application.CoursesApplication.executor": "Run",
-    "Application.EmployeeApplication.executor": "Run",
-    "Application.EurekaServerApplication.executor": "Run",
-    "Application.GatewayServerApplication.executor": "Run",
-    "Application.QueryApplication.executor": "Run",
-    "JUnit.EmployeeApplicationTests.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/saket.verma/OneDrive - UKG/Desktop/LMS Query and Config"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConfigServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoursesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EurekaServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GatewayServerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QueryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EmployeeApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/saket.verma/OneDrive - UKG/Desktop/LMS Query and Config&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saket.verma\OneDrive - UKG\Desktop\LMS Query and Config\eureka-server\src\main\java\com\lms\eureka_server" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="GatewayServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.gateway.gateway.Server.GatewayServerApplication" />
