@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0613e99-a46d-4eee-a514-6c4a974001b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/query" beforeDir="false" afterPath="$PROJECT_DIR$/query" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/Entity/Query.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/QueryApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/controller/QueryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/dto/ErrorResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/dto/QueryDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/dto/ResponseDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/exceptions/ResourceNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/mapper/QueryMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/repository/QueryRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/service/IQueryService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/java/com/lms/query/service/impl/QueryServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/resources/Application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/main/resources/schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/query/query/src/test/java/com/lms/query/QueryApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d0613e99-a46d-4eee-a514-6c4a974001b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
