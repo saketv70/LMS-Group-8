@@ -13,7 +13,7 @@ import org.springframework.data.annotation.LastModifiedDate;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "Employee")
+@Table(name = "employee")
 @Getter @Setter @AllArgsConstructor @NoArgsConstructor
 public class Employee extends BaseEntity {
 
@@ -25,3 +25,4 @@ public class Employee extends BaseEntity {
     private String password;
     private String role;
 }
+

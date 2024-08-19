@@ -5,19 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d0613e99-a46d-4eee-a514-6c4a974001b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/java/com/gateway/gateway/Server/GatewayServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-Server/src/test/java/com/gateway/gateway/Server/GatewayServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/java/com/gateway/gateway/Server/configuration/KeyCloakRoleConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-Server/src/main/java/com/gateway/gateway/Server/configuration/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee/src/main/java/com/lms/Employee/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Employee/src/main/java/com/lms/Employee/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-Server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-Server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-Server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-Server/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/query" beforeDir="false" afterPath="$PROJECT_DIR$/query" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/query/query/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/query/query/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
@@ -43,6 +36,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
